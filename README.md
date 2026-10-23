@@ -1,2 +1,2 @@
 # JAr Copeyy-ecoffee
-IT105 Web Development - Green Coffee Express &amp; Seat Reserve
+IT105 Web Development - JAr Copeyy-ecoffee Express &amp; Seat Reserve
